@@ -11,3 +11,5 @@ I ‘m Sumedha Lakmal, I ‘m an "IT" undergraduate from Sri Lanka. AS an invent
 
 
 ![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumedhaLakmal&show_icons=true&theme=radical)
+
+![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
