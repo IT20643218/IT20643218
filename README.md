@@ -9,3 +9,5 @@ I ‘m Sumedha Lakmal, I ‘m an "IT" undergraduate from Sri Lanka. AS an invent
 - 📫 How to reach me: [Twitter - SumedhaLakmalB1](https://twitter.com/SumedhaLakmalB1)
 - ⚡ Fun fact: I love to help others and motivate them to achieve their targets, reading books and traveling.
 
+
+![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumedhaLakmal&show_icons=true&theme=radical)
