@@ -8,4 +8,4 @@ I ‘m Sumedha Lakmal, I ‘m an "IT" undergraduate from Sri Lanka. AS an invent
 - 💬 Ask me about entrepreneurship and IT-related new Business and something new creative ideas.
 - 📫 How to reach me: https://twitter.com/SumedhaLakmalB1
 - ⚡ Fun fact: I love to help others and motivate them to achieve their targets, reading books and traveling.
--->
+
